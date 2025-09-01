@@ -22,6 +22,7 @@ As someone passionate about tech, DevOps, and self-growth, I wanted a system tha
 Here's how I organized my Obsidian vault:
 
 ObsidianVault/
+
 ├── 01_Weekly/          # Weekly planners with goals and tasks
 ├── 02_Learning/        # Notes on DevOps, Linux, etc.
 ├── 03_Projects/        # Project documentation
