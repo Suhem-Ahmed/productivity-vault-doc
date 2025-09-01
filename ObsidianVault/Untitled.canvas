@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"321cb8d3bfb92a07","x":-240,"y":-1320,"width":745,"height":130,"type":"text","text":"# 🧠 Obsidian Starter Vault\nOrganize your thoughts, plans, and learning here."},
+		{"id":"18cc1fa0038760d0","x":-632,"y":-980,"width":250,"height":60,"type":"text","text":"[[Week 2 ( 08 Sept -  14 Sept)]]\n"}
+	],
+	"edges":[]
+}

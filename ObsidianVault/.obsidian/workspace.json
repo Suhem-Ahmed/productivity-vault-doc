@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "b39f46aeb5b36fd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1d56a4a34277fb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65ae4f09d179ee28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Learning/learning-log.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "learning-log"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e3bd3e4a67959ea8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80f71befb0d9cfbd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b646b7b5a07cd4a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0f97feafef27023",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c7876a404c52b1a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "abb509b0245fd3e8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ddce08a80d08725e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "186bd28b94a076bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c14c527e5e742ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c418987194504d46",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01_Weekly/🗓️ Week <% tp.date.now(\"W\") %> (<% tp.date.now(\"D MMM\") %> - <% tp.date.now(\"D MMM\", +6) %>).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 🗓️ Week <% tp.date.now(\"W\") %> (<% tp.date.now(\"D MMM\") %> - <% tp.date.now(\"D MMM\", +6) %>)"
+            }
+          },
+          {
+            "id": "b5eb6dea9ae562fd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01_Weekly/🗓️ Week <% tp.date.now(\"W\") %> (<% tp.date.now(\"D MMM\") %> - <% tp.date.now(\"D MMM\", +6) %>).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 🗓️ Week <% tp.date.now(\"W\") %> (<% tp.date.now(\"D MMM\") %> - <% tp.date.now(\"D MMM\", +6) %>)"
+            }
+          },
+          {
+            "id": "172ffc55f5a0a788",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a7ab4c134cde0b5b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01_Weekly/🗓️ Week <% tp.date.now(\"W\") %> (<% tp.date.now(\"D MMM\") %> - <% tp.date.now(\"D MMM\", +6) %>).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 🗓️ Week <% tp.date.now(\"W\") %> (<% tp.date.now(\"D MMM\") %> - <% tp.date.now(\"D MMM\", +6) %>)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "65ae4f09d179ee28",
+  "lastOpenFiles": [
+    "05_Daily/README 1.md",
+    "01_Weekly/Week 0 ( 00 Sept - 00 Sept).md",
+    "01_Weekly/Week 1 ( 01 Sept - 07 Sept).md",
+    "02_Learning/learning-log.md",
+    "01_Weekly/Week 2 ( 08 Sept -  14 Sept).md",
+    "Untitled.canvas",
+    "README.md",
+    "05_Daily/2025-09-02.md",
+    "01_Weekly/🗓️ Week <% tp.date.now(\"W\") %> (<% tp.date.now(\"D MMM\") %> - <% tp.date.now(\"D MMM\", +6) %>)🗓️ Week <% tp.date.now(\"W\") %> (<% tp.date.now(\"D MMM\") %> - <% tp.date.now(\"D MMM\", +6) %>).md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "01_Weekly/Untitled.md",
+    "02_Learning/Untitled",
+    "01_Weekly/Untitled.base",
+    "2025-09-02.md",
+    "01_Weekly/01 weekly-planner ( 01 sept - 07 sept)  Temp.md",
+    "01_Weekly/weekly-planner Template.md",
+    "Untitled.md",
+    "00_Dashboard.md",
+    "Daily Notes.md",
+    "06_Daily.md",
+    "03_Projects.md",
+    "02_Learning.md",
+    "Weekly-plans",
+    "Projects/README.md"
+  ]
+}
