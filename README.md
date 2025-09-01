@@ -61,7 +61,15 @@ Inside `04_Templates/weekly-planner-template.md`, I use a simple markdown templa
 | ...       |                    |        |
 
 ## 🧠 Reflections
-- ...
+- Wins this week:
+
+- Challenges faced:
+
+- How I handled them:
+
+- Key learning:
+
+- Next week’s focus:
 
 ---
 
